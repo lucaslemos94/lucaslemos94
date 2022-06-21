@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for a job, in front-end area
+- 🔭 I’m currently working in back-end area
 - 🌱 I’m currently learning Angular framework and Typescript
 - 😄 Pronouns: him/his
 
