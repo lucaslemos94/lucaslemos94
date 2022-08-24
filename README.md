@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working in back-end area
-- 🌱 I’m currently learning Angular framework and Typescript
+- 🌱 I’m currently learning Node.js, Typescript and AWS serverless projects
 - 😄 Pronouns: him/his
 
 <div>
