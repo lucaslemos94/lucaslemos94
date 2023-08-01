@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 Degree Student in Computing at [University of Brasília (UnB)](https://unb.br/)
+- 😄 Master Degree Student in Computing at [University of Brasília (UnB)](https://unb.br/)
 - 🔭 I’m working in back-end area at [Orbitall Payments](https://www.orbitall.com.br/)
 - 🌱 I’m currently learning Node.js, Typescript and AWS serverless projects
 - :thought_balloon: enthusiastic front-end area, learning Angular framework
