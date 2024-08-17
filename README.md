@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 😄 Master Degree Student in Computing at [University of Brasília (UnB)](https://unb.br/)
-- 🌱 I’m currently learning Node.js, Typescript and AWS serverless projects
-- :thought_balloon: enthusiastic front-end area, learning Angular framework
-
+- 📝 IT Teacher at the DF Education Department.
+- 💻  Master Degree Student in Computing at [University of Brasília (UnB)](https://unb.br/)
+- Here you will find my projects of all kinds: personal, work, studying
+  
 <div>
   <a href="https://github.com/lucaslemos94">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslemos94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
